@@ -6,4 +6,4 @@ Grup sitesini emrahtekin.me alanıma yükledim.(emrah tekin)<br>
 Furkan Küçük:Videoları sitelere gömdüm açılır pencereyi kapattım link olarak 5 konuyu ekledim<br>
 yunus emre çiftci
 Konu başlıklarına göre linkler  oluşturdum ve dosyaları düzenledim. Video linklerini ekledim (Aysel Sakar) <br>
-Grup etkinliğine katılıp tasarıma yardım ettim.(serap acar)
+
