@@ -1,3 +1,3 @@
 # DuzenliGrup
 DuzenliGrup alanını oluşturdum.
-Furkan
+Furkan Küçük
